@@ -13,7 +13,7 @@
 <h1 id="intro">mazemaker </h1>
 
 ## brief
-- A mazemaker of the readme tab
+- Automate maze creation, utilizing Prim’s randomized algorithm.
 
 
 ## Task:
@@ -75,9 +75,7 @@ To get this project up and running locally, you must already have python plus th
 - In development
 
 ## Features
-- A decoding option
-- Allow user to paste long paragraphs
-- An interface to allow the user to choose between encrypting and decrypting
+
 
 ## TODO
 
